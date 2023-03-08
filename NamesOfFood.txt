@@ -1,3 +1,243 @@
-Fries
-Pie
+Crystal Light
+Corn
+Coconut Milk
+Canned Cranberries
+Pineapple
+Raisins
+Vanilla Milkshake
+Chocolate Milkshake
+Avocado
+Strawberry Milkshake
+Energy-Drink	
+Limeade
+Canned Sour Cherries
+Canned Figs
+Fruitopia
+Lassi
+Chocolate Milk
+Hot Chocolate
+Canned Blackberries
+Canned Strawberries
+Pomegranate
+Canned Raspberries
+Cabbage
+Canned Blueberries
+Egg Nog
+ACE Drink
+Canned Morello Cherries
+Plantains
+Papaya
+Broccoli
+Mango
+Canned Fruit Cocktail
+Canned Grapes
+Canned Gooseberries
+Wasabi
+White Grape Juice
+Latte Macchiato
+Concord Grape
+Cranberry Grape Juice
+Plum Juice
+Applesauce
+Potato
+Cranberry Apple Juice
+Canned Mangosteen
+Mango Lassi
+Pomegranate Juice
+Canned Tangerines
+Club Mate
+Lemonade
+Milk
+Creamed Spinach
+Rutabaga
+Winter Squash
+Clamato
+Grape Juice
+Pear Juice
+Pear Nectar
+Jackfruit
+Canned Pineapple
+Acai Juice
+Papaya Juice
+Coca Cola
+Cola
+Dried Fruit
+Custard Apple
+Canned Cherries
+Chinese Cabbage
+Apricot Nectar
+Non-alcoholic Beer
+Canned Fruit Salad
+Boysenberry Juice
+Peach Juice
+Peach Nectar
+Horchata
+Parsnips
+Pineapple Juice
+Fruit salad
+Hi-C
+Banana Juice
+Lemonade
+Pineapple Orange Juice
+Apple Spritzer
+Nectar
+Canned Crushed Pineapple
+Canned Sliced Pineapple
+Slush Puppie
+Canned Apricots
+Egg Cream
+Aubergine
+Eggplant
+Blackberry Juice
+Currant Juice
+Passion Fruit Juice
+Kiwi
+Kumara
+Sweet Potato
+Banana
+Apple Juice
+Cranberry Juice
+Grapefruit Juice
+Orange Juice
+Soy Milk
+Gourd
+Kohlrabi
+Cherry Juice
+Canned Mango
+Aloe Vera
+Grapes
+Tangerine Juice
+Pear
+Canned Pears
+Milo
+Carrot Juice
+Ice Tea
+Iced Tea
+Apple
+Canned Grapefruit
+Tang
+Lettuce
+Smoothie
+Squash
+Karamalz
+Malt Beer
+Endive
+Watermelon
+Nestea
+Blueberries
+Capri-Sun
+Gatorade
+Canned Mandarin Oranges
+Canned Mixed Fruit
+Powerade
+Peas
+Spinach
+Fennel
+Applesauce
+Canned Oranges
+Blood Oranges
+Minneola
+Hawaiian Punch
+Nectarine
+Cucumber
+Elderflower Cordial
+Raspberries
+Currants
+Blackberries
 Orange
+Kool-Aid
+Mulberries
+Artichoke
+Peach
+Leek
+Canned Peaches
+Quince
+Pumpkin
+Lemon Juice
+Lime Juice
+Nestea
+Vegetable Juice
+Strawberries
+Mandarin Oranges
+Tangerine
+Cranberries
+Coconut Water
+Tomato Juice
+Chicory
+Figs
+Guava
+Clementine
+Beetroot
+Green Beans
+Onion
+Turnip Greens
+Turnips 
+Sauerkraut Juice
+Courgette
+Kale
+Zucchini
+Persimmon
+Yerba Mate
+Plum
+Kombucha
+Starfruit
+Canned Plums
+Carrot
+Cucumber Juice
+Cantaloupe
+Milkshake (dry)
+Jujube
+Acai
+Dates
+Lime
+Cherry Tomato
+Pepper
+Tomato
+Shallots
+Apricot
+Lemon
+Passion Fruit
+Bell Pepper
+Mustard Greens
+Capsicum
+Collard Greens
+Rhubarb
+Slurpee
+Chard
+Gherkin
+Brussels Sprouts
+Lychees
+Rambutan
+Horseradish
+Red Cabbage
+Celery
+Tamarind
+Green Onion
+Cherries
+Garlic
+Okra
+Cauliflower
+Coke Zero
+Diet Coke
+Greengage
+Olives
+Physalis
+Asparagus
+Black Olives
+Green Olives
+Olives
+Coffee
+Tea
+Arugula
+Chives
+Mushrooms
+Nori
+Radishes
+Chamomile Tea
+Chai
+Chai Tea
+Evian
+Ginger Tea
+Tap Water
+Volvic
+Water
