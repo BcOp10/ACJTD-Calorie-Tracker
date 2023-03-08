@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="602.0" prefWidth="602.0" stylesheets="@CalorieAppDesign.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HealthyAndFit.CalorieAppScene">
+   <children>
+      <TableView fx:id="foodTable" layoutY="236.0" prefHeight="366.0" prefWidth="602.0">
+        <columns>
+          <TableColumn fx:id="foodCol" prefWidth="208.0" resizable="false" text="Food Name" />
+          <TableColumn fx:id="calCol" prefWidth="185.0" resizable="false" text="Number of Calories" />
+            <TableColumn fx:id="mealCol" maxWidth="235.0" prefWidth="208.0" resizable="false" text="Mealtime" />
+        </columns>
+      </TableView>
+      <Text fx:id="titleCal" layoutX="305.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Total Number of Calories:" underline="true" wrappingWidth="294.796875">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text fx:id="calCountTxt" layoutX="432.0" layoutY="96.0" onDragDetected="#addFoodBtn" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Button fx:id="newWinBtn" layoutX="76.0" layoutY="66.0" mnemonicParsing="false" onAction="#handleBtnNewWindow" prefHeight="44.0" prefWidth="106.0" text="Add Entry" />
+      <Text fx:id="calText" layoutX="6.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Menu To Add Entry" textAlignment="CENTER" underline="true" wrappingWidth="246.796875">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
